@@ -32,7 +32,7 @@ WoW (World-Omniscient World Model) is a 14B-parameter generative world model tra
 ## 📖 Paper & Demo
 
 <div align="center">
-  <img src="wow-world-model.github.io/figs/teaser.png" alt="WoW Teaser" style="max-width: 600px; border-radius: 12px;">
+  <img src="figs/teaser.png" alt="WoW Teaser" style="max-width: 600px; border-radius: 12px;">
 </div>
 
 **WoW world model** generates high-quality, physically consistent robot action videos in Out-of-Distribution (OOD) scenarios, enabling closed-loop corrections and real-world robotic execution. The illustration shows the model's strong generalization across diverse tasks and environments.
