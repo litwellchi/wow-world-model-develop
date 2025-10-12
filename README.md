@@ -120,13 +120,10 @@ Visit our interactive demo at:
 If you use WoW in your research, please cite:
 
 ```bibtex
-@misc{chi2025wowworldomniscientworld,
-      title={WoW: Towards a World omniscient World model Through Embodied Interaction}, 
-      author={Xiaowei Chi and Peidong Jia and Chun-Kai Fan and Xiaozhu Ju and Weishi Mi and Kevin Zhang and Zhiyuan Qin and Wanxin Tian and Kuangzhi Ge and Hao Li and Zezhong Qian and Anthony Chen and Qiang Zhou and Yueru Jia and Jiaming Liu and Yong Dai and Qingpo Wuwu and Chengyu Bai and Yu-Kai Wang and Ying Li and Lizhang Chen and Yong Bao and Zhiyuan Jiang and Jiacheng Zhu and Kai Tang and Ruichuan An and Yulin Luo and Qiuxuan Feng and Siyuan Zhou and Chi-min Chan and Chengkai Hou and Wei Xue and Sirui Han and Yike Guo and Shanghang Zhang and Jian Tang},
-      year={2025},
-      eprint={2509.22642},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2509.22642}, 
+@article{chi2025wow,
+  title={WoW: Towards a World omniscient World model Through Embodied Interaction},
+  author={Chi, Xiaowei and Jia, Peidong and Fan, Chun-Kai and Ju, Xiaozhu and Mi, Weishi and Zhang, Kevin and Qin, Zhiyuan and Tian, Wanxin and Ge, Kuangzhi and Li, Hao and others},
+  journal={arXiv preprint arXiv:2509.22642},
+  year={2025}
 }
 ```
