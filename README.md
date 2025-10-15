@@ -106,6 +106,7 @@ Visit our interactive demo at:
 ---
 
 ## 📬 Contact
+- If you prefer some specific kinds of world models on embodied manipulation scenes, or if the issue is solved too slowly, feel free to contact litwellchi@gmail.com
 
 - Project website: [wow-world-model.github.io](https://wow-world-model.github.io)  
 
