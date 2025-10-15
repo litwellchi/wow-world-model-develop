@@ -39,7 +39,7 @@ WoW (World-Omniscient World Model) is a 14B-parameter generative world model tra
 
 **Authors:**
 
-Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1,2</sup>†, Xiaozhu Ju<sup>1</sup>†, Weishi Mi<sup>1</sup>†, Kevin Zhang<sup>2</sup>, Zhiyuan Qin<sup>1</sup>, Wanxin Tian<sup>1</sup>, Kuangzhi Ge<sup>2</sup>, Hao Li<sup>1</sup>, Zezhong Qian<sup>1,2</sup>, Anthony Chen<sup>2</sup>, Qiang Zhou<sup>1,2</sup>, Yueru Jia<sup>2</sup>, Jiaming Liu<sup>2</sup>, Yong Dai<sup>1</sup>, Qingpo Wuwu<sup>2</sup>, Chengyu Bai<sup>2</sup>, Yu-Kai Wang<sup>2</sup>, Ying Li<sup>2</sup>, Lizhang Chen<sup>1,2</sup>, Yong Bao<sup>1</sup>, Zhiyuan Jiang<sup>1</sup>, Jiacheng Zhu<sup>1</sup>, Kai Tang<sup>2</sup>, Ruichuan An<sup>2</sup>, Yulin Luo<sup>2</sup>, Qiuxuan Feng<sup>1,2</sup>, Siyuan Zhou<sup>3</sup>, Chi-min Chan<sup>3</sup>, Chengkai Hou<sup>1,2</sup>, Wei Xue<sup>3</sup>, Sirui Han<sup>3</sup>, Yike Guo<sup>3</sup>, [Shanghang Zhang]()<sup>2</sup>✉, [Jian Tang]()<sup>1</sup>✉
+Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1,2</sup>†, Xiaozhu Ju<sup>1</sup>†, Weishi Mi<sup>1</sup>†, Zhiyuan Qin<sup>1</sup>†, Kevin Zhang<sup>2</sup>, Wanxin Tian<sup>1</sup>, Kuangzhi Ge<sup>2</sup>, Hao Li<sup>1</sup>, Zezhong Qian<sup>1,2</sup>, Anthony Chen<sup>2</sup>, Qiang Zhou<sup>1,2</sup>, Yueru Jia<sup>2</sup>, Jiaming Liu<sup>2</sup>, Yong Dai<sup>1</sup>, Qingpo Wuwu<sup>2</sup>, Chengyu Bai<sup>2</sup>, Yu-Kai Wang<sup>2</sup>, Ying Li<sup>2</sup>, Lizhang Chen<sup>1,2</sup>, Yong Bao<sup>1</sup>, Zhiyuan Jiang<sup>1</sup>, Jiacheng Zhu<sup>1</sup>, Kai Tang<sup>2</sup>, Ruichuan An<sup>2</sup>, Yulin Luo<sup>2</sup>, Qiuxuan Feng<sup>1,2</sup>, Siyuan Zhou<sup>3</sup>, Chi-min Chan<sup>3</sup>, Chengkai Hou<sup>1,2</sup>, Wei Xue<sup>3</sup>, Sirui Han<sup>3</sup>, Yike Guo<sup>3</sup>, [Shanghang Zhang]()<sup>2</sup>✉, [Jian Tang]()<sup>1</sup>✉
 
 <sup>1</sup> Beijing Innovation Center of Humanoid Robotics  
 <sup>2</sup> State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University  
@@ -123,7 +123,7 @@ If you use WoW in your research, please cite:
 ```bibtex
 @article{chi2025wow,
   title={WoW: Towards a World omniscient World model Through Embodied Interaction},
-  author={Chi, Xiaowei and Jia, Peidong and Fan, Chun-Kai and Ju, Xiaozhu and Mi, Weishi and Zhang, Kevin and Qin, Zhiyuan and Tian, Wanxin and Ge, Kuangzhi and Li, Hao and others},
+  author={Chi, Xiaowei and Jia, Peidong and Fan, Chun-Kai and Ju, Xiaozhu and Mi, Weishi and Qin, Zhiyuan and Zhang, Kevin  and Tian, Wanxin and Ge, Kuangzhi and Li, Hao and others},
   journal={arXiv preprint arXiv:2509.22642},
   year={2025}
 }
