@@ -12,17 +12,13 @@ WoW (World-Omniscient World Model) is a 14B-parameter generative world model tra
 
 ### 1. Install Dependencies
 
-For DiT models:
+For Cosmos based DiT models:
 
 ```bash
 pip install -r dit_models/wow-dit-2b/requires.txt
 ```
 
-For Wan models:
-
-```bash
-pip install -r wan_models/wow-wan-14b/requires.txt
-```
+For Wan based models, follow the demo/README.md
 
 ### 2. Run Demo Scripts
 
@@ -45,7 +41,7 @@ python scripts/infer_wow_dit_7b.py --help
 - Run the Wan demo:
 
 ```bash
-python demo/wan_infer_demo.py
+python demo/wan_infer_demo.py 
 ```
 
 - For custom input or parameters, please refer to comments in the corresponding demo scripts.
