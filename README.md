@@ -50,18 +50,18 @@ Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1
 ## 📰 News！
 - 🔥 **[Oct 2025]** We've officially released **WoW**, a 14B-parameter generative world model trained on 2M real-world robot trajectories, and model groups!
 - 🚀 **All model weights and benchmark datasets are now open-sourced** on [Hugging Face](https://huggingface.co/WoW-world-model)!
-- 
+  
 ## 🧠 Open-Sourced Weights & Dataset
 
 We have open-sourced the following models and datasets on [Hugging Face](https://huggingface.co/WoW-world-model):
 
-| Model Name | Parameters | Training Steps | Link |
+| Model Name | Parameters | Training Steps | Link | 
 |------------|------------|----------------|------|
 | WoW-1-DiT-2B-600k | 2B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-2B-600k) |
 | WoW-1-DiT-7B-600k | 7B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-7B-600k) |
 | WoW-1-Wan-14B-600k | 14B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-600k) |
 | WoW-1-Wan-14B-2M | 14B | 2M | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-2M) |
-| Wan-1-Wan-14B-600k | 14B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/Wan-1-Wan-14B-600k) |
+| Wan-1-Wan-1.3B-2M | 14B | 2M | [🔗 Comming Soon](https://huggingface.co/WoW-world-model/Wan-1-Wan-14B-600k) |
 
 ### 📊 Benchmark Dataset
 
