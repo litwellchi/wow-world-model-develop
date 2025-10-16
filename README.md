@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/demo-wow--world--model.github.io-green.svg)](https://wow-world-model.github.io)
 
+
 ---
 
 WoW (World-Omniscient World Model) is a 14B-parameter generative world model trained on **2 million robotic interaction trajectories**, designed to **imagine**, **reason**, and **act** in the physical world. Unlike passive video models, WoW learns from **real-world, causally rich data**, enabling robust physical reasoning and real-world planning.
@@ -46,6 +47,28 @@ Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1
 <sup>3</sup> Hong Kong University of Science and Technology
 
 
+## 📰 News！
+- 🔥 **[Oct 2025]** We've officially released **WoW**, a 14B-parameter generative world model trained on 2M real-world robot trajectories, and model groups!
+- 🚀 **All model weights and benchmark datasets are now open-sourced** on [Hugging Face](https://huggingface.co/WoW-world-model)!
+- 
+## 🧠 Open-Sourced Weights & Dataset
+
+We have open-sourced the following models and datasets on [Hugging Face](https://huggingface.co/WoW-world-model):
+
+| Model Name | Parameters | Training Steps | Link |
+|------------|------------|----------------|------|
+| WoW-1-DiT-2B-600k | 2B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-2B-600k) |
+| WoW-1-DiT-7B-600k | 7B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-7B-600k) |
+| WoW-1-Wan-14B-600k | 14B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-600k) |
+| WoW-1-Wan-14B-2M | 14B | 2M | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-2M) |
+| Wan-1-Wan-14B-600k | 14B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/Wan-1-Wan-14B-600k) |
+
+### 📊 Benchmark Dataset
+
+| Dataset Name | Description | Link |
+|--------------|-------------|------|
+| WoW-1-Benchmark-Samples | Evaluation set used in WoWBench for physical consistency and causal reasoning. | [📄 Link](https://huggingface.co/datasets/WoW-world-model/WoW-1-Benchmark-Samples) |
+
 
 ## 🚀 Open Source Roadmap
 
@@ -58,9 +81,9 @@ Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1
 - [x] Project website launched: [wow-world-model.github.io](https://wow-world-model.github.io)
 
 ### 🚧 Phase 2 – *Planned for Oct. 2025*
-- [ ] **Model Weights (2B, 7B, 14B WoW-DiT)**
+- [x] **Model Weights (2B, 7B, 14B WoW-DiT)**
 - [ ] **Baseline Model Weights (SVD, CogVideoX, Cosmos1&2)**
-- [ ] **Inference Scripts & Colab Demo**
+- [x] **Inference Scripts & Colab Demo**
 - [ ] **Flow-Mask Inverse Dynamics Model (FM-IDM)**
 
 ### 🚀 Phase 3 – *Planned for Dec. 2025*
@@ -82,7 +105,7 @@ Xiaowei Chi<sup>1,2,3</sup>†, Peidong Jia<sup>1,2</sup>†, Chun-Kai Fan<sup>1
 
 Coming soon. We plan to release:
 
-- [ ] Pretrained WoW models (2B, 7B, 14B)
+- [x] Pretrained WoW models (2B, 7B, 14B)
 - [ ] WoWBench dataset & evaluation scripts
 - [ ] SOPHIA framework codebase
 - [ ] FM-IDM module for robot control
