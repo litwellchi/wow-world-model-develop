@@ -8,6 +8,9 @@
 
 WoW (World-Omniscient World Model) is a 14B-parameter generative world model trained on 2 million real-world robot interaction trajectories. It is designed for physically consistent imagination, reasoning, and action in robotics.
 
+## 🔥 News!!
+- We release the DiT postraining checkpoints，includes DiT-2B based on Cosmos-Predict2, DiT-7B based on Cosmos-Predict1, and DiT-14B based on the Wan2.1
+
 ## 🧰 Quick Start
 
 ### 1. Install Dependencies
@@ -57,7 +60,7 @@ We have released the following models and datasets on [Hugging Face](https://hug
 | WoW-1-DiT-2B-600k | 2B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-2B-600k) |
 | WoW-1-DiT-7B-600k | 7B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-DiT-7B-600k) |
 | WoW-1-Wan-14B-600k | 14B | 600k | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-600k) |
-| WoW-1-Wan-14B-2M | 14B | 2M | [🔗 Link](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-2M) |
+| WoW-1-Wan-14B-2M | 14B | 2M | [🔗 Coming Soon](https://huggingface.co/WoW-world-model/WoW-1-Wan-14B-2M) |
 | Wan-1-Wan-1.3B-2M | 14B | 2M | [🔗 Coming Soon](https://huggingface.co/WoW-world-model/Wan-1-Wan-14B-600k) |
 
 ### 📊 Benchmark Dataset
