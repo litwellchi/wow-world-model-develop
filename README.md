@@ -9,7 +9,7 @@
 WoW (World-Omniscient World Model) is a 14B-parameter generative world model trained on 2 million real-world robot interaction trajectories. It is designed for physically consistent imagination, reasoning, and action in robotics.
 
 ## 🔥 News!!
-- We release the DiT postraining checkpoints，includes DiT-2B based on Cosmos-Predict2, DiT-7B based on Cosmos-Predict1, and DiT-14B based on the Wan2.1
+- We release the DiT postraining checkpoints of WoW，includes DiT-2B based on Cosmos-Predict2, DiT-7B based on Cosmos-Predict1, and DiT-14B based on the Wan2.1
 
 ## 🧰 Quick Start
 
